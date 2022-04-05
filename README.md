@@ -1,7 +1,8 @@
-### Olá eu sou Eduardo Brandiao
+### Eduardo Brandiao
 
 
 - 🔭 Estou trabalhando com desenvolvimento de sistemas para indústria de Petróleo e Gás
+- 🌱 Formado em Ciências da Computação
 - 🌱 Formação SAP (MM / BASIS / PM / BW / ABAP)
 - 🌱 Formação Web Development Le Wagon (Postgresql, Ruby e Rails)
 - 🌱 Formação Web Development Ironhack (MongoDB, Javascrip e React)
