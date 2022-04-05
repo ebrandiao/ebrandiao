@@ -2,11 +2,11 @@
 
 
 - 🔭 Estou trabalhando com desenvolvimento de sistemas para indústria de Petróleo e Gás
-- 🌱 Formado em Ciências da Computação
+- 🌱 Graduado em Ciências da Computação
 - 🌱 Formação SAP (MM / BASIS / PM / BW / ABAP)
-- 🌱 Formação Web Development Le Wagon (Postgresql, Ruby e Rails)
-- 🌱 Formação Web Development Ironhack (MongoDB, Javascrip e React)
-- 🌱 Formação Front-end INFNET (Javascrip e React)
+- 🌱 Formação Web Development - Le Wagon (Postgresql, Ruby e Rails)
+- 🌱 Formação Web Development - Ironhack (MongoDB, Javascrip e React)
+- 🌱 Formação Front-end - INFNET (Javascrip e React)
 - 💬 Contato: 55-27-99253-9989 e eduardo.brandiao.adm@gmail.com
 
 <div align="center">
@@ -26,7 +26,6 @@
   <img align="center" alt="postgresql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg">
   <img align="center" alt="ruby" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
   <img align="center" alt="rails" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg">
-  
   
   
   <img align="right" alt="ruby" height="150" style="border-radius:50px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg">
