@@ -3,7 +3,7 @@
 
 - 🔭 Estou trabalhando com desenvolvimento de sistemas para indústria de Petróleo e Gás
 - 🌱 Graduado em Ciências da Computação
-- 🌱 Formação SAP (MM / BASIS / PM / BW / ABAP)
+- 🌱 Academia SAP (MM / BASIS / PM / BW / ABAP)
 - 🌱 Formação Web Development - Le Wagon (Postgresql, Ruby e Rails)
 - 🌱 Formação Web Development - Ironhack (MongoDB, Javascrip e React)
 - 🌱 Formação Front-end - INFNET (Javascrip e React)
