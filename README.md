@@ -9,7 +9,8 @@
 - 🌱 Formação Front-end - INFNET (Javascrip e React)
 - 🌱 Principais Soft skills: Comunicação | Liderança | Resiliência | Trabalho em equipe | Proatividade
 - 🌱 Principais Hard skills: Capacidade de debulhar o problema em pequenas etapas | Conhecimento avançado de ERP de grande porte | Conhecimento avançado em Supply Chain | Gestão de pessoas
-- 💬 Contato: 55-27-99253-9989 e eduardo.brandiao.adm@gmail.com
+- <img alt="Whatsapp" src="https://spincommerce.s3.amazonaws.com/2405/products/84573745-04fc-4708-8215-bc3b2ca55f51/icon-whatsapp.svg" width="25"> Contato: 55-27-99253-9989 
+- :mailbox_with_mail: eduardo.brandiao.adm@gmail.com
 
 <div align="center">
   <a href="https://github.com/ebrandiao">
