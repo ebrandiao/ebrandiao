@@ -7,6 +7,8 @@
 - 🌱 Formação Web Development - Le Wagon (Postgresql, Ruby e Rails)
 - 🌱 Formação Web Development - Ironhack (MongoDB, Javascrip e React)
 - 🌱 Formação Front-end - INFNET (Javascrip e React)
+- 🌱 Principais Soft skills: Comunicação | Liderança | Resiliência | Trabalho em equipe | Proatividade
+- 🌱 Principais Hard skills: Capacidade de debulhar o problema em pequenas etapas | Conhecimento avançado de ERP de grande porte | Gestão de pessoas
 - 💬 Contato: 55-27-99253-9989 e eduardo.brandiao.adm@gmail.com
 
 <div align="center">
