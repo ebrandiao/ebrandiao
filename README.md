@@ -1,12 +1,13 @@
 ### Eduardo Brandiao
 
 
-- 🔭 Estou trabalhando com desenvolvimento de sistemas para indústria de Petróleo e Gás
-- 🌱 Graduado em Ciências da Computação
+- 🔭 Estou trabalhando com Consultoria SAP (MM) com o desenvolvimento de sistemas para automatização das rotinas das gerências de Suprimentos de Bens e Serviços para a indústria de Petróleo e Gás
+- 🌱 Mestrado Profissional em Contabilidade e Administração Estratégica pela FUCAPE (cursando)
+- 🌱 Graduado em Administração e Ciências da Computação
 - 🌱 Academia SAP (MM / BASIS / PM / BW / ABAP)
-- 🌱 Formação Web Development - Le Wagon (Postgresql, Ruby e Rails)
-- 🌱 Formação Web Development - Ironhack (MongoDB, Javascrip e React)
-- 🌱 Formação Front-end - INFNET (Javascrip e React)
+- 🌱 Formação Web Development pela Le Wagon (Postgresql, Ruby e Rails)
+- 🌱 Formação Web Development pela Ironhack (MongoDB, Javascrip e React)
+- 🌱 Formação Front-end pelo Instituto INFNET (Javascrip e React)
 - 🌱 Principais Soft skills: Comunicação | Liderança | Resiliência | Trabalho em equipe | Proatividade
 - 🌱 Principais Hard skills: Capacidade de debulhar o problema em pequenas etapas | Conhecimento avançado de ERP de grande porte | Conhecimento avançado em Supply Chain | Gestão de pessoas
 - <img alt="Whatsapp" src="https://spincommerce.s3.amazonaws.com/2405/products/84573745-04fc-4708-8215-bc3b2ca55f51/icon-whatsapp.svg" width="25"> Contato: 55-27-99253-9989 
