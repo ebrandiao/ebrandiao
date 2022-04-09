@@ -53,7 +53,7 @@
 bens e serviços, com a liderança de 5 pessoas, mapeando os processos críticos
 e analisando os resultados dos indicadores de backlog, onde foi identificado os
 processos com maior desvio nos resultados. Desenvolvi e analisei a qualidade
-dos scripts (VBA, PYTHON e JAVASCRIPT) automatizando os processos: (i)
+dos scripts (VBA e PYTHON) automatizando os processos: (i)
 Cadastro de contratos de bens e serviços, (ii) Alteração contratual (aditivos), (iii)
 Liberador alternativo, (iv) Liberador de contratos bloqueados, (v) Emissão de
 pedidos de compras, (vi) Emissão de requisição de compras, (vii) Controle de
@@ -76,6 +76,5 @@ integrando os módulos MM e PM, por meio de query do BW, junto com o Plano
 de contratação, possibilitando a gestão da saúde dos contratos vigentes e
     críticos para as gerências operacionais.</h4> 
   </h4>
-    
-  </div>
+ </div>
 
