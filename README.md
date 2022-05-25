@@ -1,4 +1,4 @@
-### Olá, me chamo Eduardo Brandiao sou Consultor SAP MM / ABAP e desenvevedor de sistemas Ruby on Rails | JAVASCRIPT | PYTHON | VBA
+### Olá, me chamo Eduardo Brandiao sou Consultor Sr. de negócios e desenvevedor de sistemas Ruby on Rails | JAVASCRIPT | TYPESCRIPT | C# | PYTHON | VBA
 
 
 
